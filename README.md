@@ -5,6 +5,9 @@
   O projeto ▶️ 'Teste Sua Sorte' é uma parte fundamental do meu progresso no curso DevClub, iniciando com o aprendizado sobre Random. 
   Essa ferramenta de sorteio permite aos usuários selecionar um número aleatório entre dois valores inseridos nos campos de entrada, do menor ao maior, considerando o número de participantes. 
   Com apenas um clique no botão 'sortear', o resultado é exibido instantaneamente. Um projeto de sorteio simples, porém eficiente, prometendo praticidade 👇
+  <br>
+  
+  ***Apresentação do Projeto*** => [Clique aqui](https://andrade-sorteador-devclub.netlify.app) e confira a proposta do projeto.
                                      
  <p/>
 
